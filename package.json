@@ -1,0 +1,28 @@
+{
+  "name": "pinger",
+  "version": "0.0.0",
+  "description": "App to keep alive web apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/partus/pinger.git"
+  },  
+  "engines" : {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+
+  "dependencies": {
+
+    "request": "2.*"
+    "underscore": "1.4.*"
+  },
+
+  "author": "Partus",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "101a2375029225e205f8673b9ecf60a7d8e53037"
+}

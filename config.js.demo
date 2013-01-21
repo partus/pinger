@@ -1,0 +1,4 @@
+module.exports ={
+	"links": ["http://www.google.com"], // links to request
+	"interval": 5 //seconds between request
+}
